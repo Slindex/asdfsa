@@ -97,7 +97,7 @@ def multiHist(filename, df, bins=50, kde=True, bar_color='#329D9C', kde_color='#
         try:
             ax.lines[0].set_color(kde_color)
         except IndexError:
-            continue
+            pass
 
         ax.grid(True, color='grey', linewidth='0.5', axis='y', alpha=0.3)
         ax.set_axisbelow(True)
