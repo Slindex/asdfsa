@@ -168,7 +168,7 @@ Ahora bien, se presenta el cuadro resumen con todas las métricas por columna.
 
 Ya para finalizar el resumen del reporte, se presenta un conjunto de histogramas por cada columna cuantitativa evaluada en esta prueba de calidad! Este histograma no solo permite entender mejor la distribución y tendencia central de los datos, sino que además fue muy útil para detectar rápidamente valores atípicos y anomalías en la información. Además, fue esencial para comprobar los resultados que obtuve mediante el desarrollo y uso de mis Scripts.
 
-![metadata](images\data_histograms.png)
+![metadata](images/data_histograms.png)
 
 # Despedida
 
