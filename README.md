@@ -152,6 +152,8 @@ A continuación se muestra un resumen de la evaluación de calidad general del d
 
 <img src="images/evaluacion_dataset.png" alt="Your Image" width="500">
 
+Cabe destacar que se encontraron 54 filas duplicadas en el dataset y 0 filas que fueran completamente nulas.
+
 ## Columnas
 
 Para la evaluación de Calidad de las columnas se desarrollaron diversos Scripts para realizar las evaluaciones de forma automática. Todo el código está explicado en el archivo **EDA.ipynb**. Finalmente, gran parte de los hallazgos e indicadores de calidad se resumieron en un cuadro que resume el valor del indicador para cada columna. Los números de color rojo son insuficientes y presentan alguna falla en la métrica en cuestión, por mínima que sea. Gran parte de los datos tienen defectos en la calidad de tan solo el 1%. Sin embargo, muchos otros están en 0 y deben ser revisados con cautela. A continuación se presenta el significado de las siglas utilizadas en cada dimensión de calidad.
